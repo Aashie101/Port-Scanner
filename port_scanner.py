@@ -1,3 +1,5 @@
+# this version doesn't use threads, hence takes more time than the copy version
+
 import socket
 
 services={20:"FTP Data",
